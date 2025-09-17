@@ -48,3 +48,9 @@ header{
     border-radius: 5px;
     padding: 10px 20px;
  }
+
+    /* mainsection */
+.row{
+    padding: 5% 10%;
+    background: rgb(248, 182, 182);
+}
