@@ -41,3 +41,10 @@ header{
     color: white;
     transform: scale(1.1);
  }
+
+ .banner-container h1{
+    font-size: 3.5rem;
+    background-color: rgb(7, 101, 189,0.8);
+    border-radius: 5px;
+    padding: 10px 20px;
+ }
