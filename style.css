@@ -100,3 +100,6 @@ header{
     font-weight: bolder;
     padding: auto;
 }
+.star i{
+    width: 20px;
+}
