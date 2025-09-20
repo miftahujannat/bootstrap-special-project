@@ -86,7 +86,7 @@ header{
 /* about me start  */
 #about-me{
     padding:4% 14%;
-    background-color: bisque;
+    background-color: rgb(201, 174, 141);
 }
 #about-me p{
     font-size: 0,9rem;
@@ -115,4 +115,10 @@ header{
 .card:hover{
     transform: scale(1.1);
     box-shadow: 2px 6px 5px;
+}
+
+/* feedback start */
+#feedback{
+    padding: 5%;
+    background:rgb(48, 97, 97) ;
 }
