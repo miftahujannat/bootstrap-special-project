@@ -103,3 +103,12 @@ header{
 .star i{
     width: 20px;
 }
+/* about me ends */
+#titorial {
+    padding: 4% 10%;
+    background: rgb(182, 164, 178);
+}
+.card{
+    transition: .4s;
+    border: 1px solid rgb(144, 29, 162);
+}
