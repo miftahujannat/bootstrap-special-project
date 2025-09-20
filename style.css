@@ -106,9 +106,13 @@ header{
 /* about me ends */
 #titorial {
     padding: 4% 10%;
-    background: rgb(182, 164, 178);
+    background: rgb(108, 171, 171);
 }
 .card{
     transition: .4s;
     border: 1px solid rgb(144, 29, 162);
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 6px 5px;
 }
