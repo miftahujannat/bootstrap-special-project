@@ -133,7 +133,21 @@ header{
     height: auto;
     margin-bottom: 5px;
 }
+/* contact me start  */
+#contact{
+    padding:2% 10%;
+    background-color: rgb(164, 231, 231);
+}
 
+.form-group label{
+    margin-bottom: 0;
+    font-weight: bold;
+}
 
+/* footer start  */
+footer{
+    padding: 1% 10%;
+    background:  rgb(22, 101, 101);
+}
 
 
