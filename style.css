@@ -149,5 +149,9 @@ footer{
     padding: 1% 10%;
     background:  rgb(22, 101, 101);
 }
+footer a{
+    color: white;
+    margin-bottom: 0px 10px;
+}
 
 
